@@ -1,0 +1,5 @@
+/* CSS for the Site Sensor admin screen */
+
+.settings_page_synthesis-site-sensor-settings-menu #wpwrap #icon-options-general {
+	background: url(../images/site-sensor-logo.png);
+}
